@@ -23,4 +23,4 @@
 > 歌词：https://cdn.jsdelivr.net/gh/fengyu1995/download/music/xiaochengxiatian.lrc
 > 图片：https://cdn.jsdelivr.net/gh/fengyu1995/download/music/xiaochengxiatian.jpg
 
-#### 资源来自于网络，仅用于学习，如有侵权，请联系删除
+#### 用于收集自己学习使用
